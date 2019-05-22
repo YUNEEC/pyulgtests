@@ -1,3 +1,2 @@
 pyulgresample>=0.01
-pandas
-numpy
+pre-commit
