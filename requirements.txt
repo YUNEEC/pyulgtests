@@ -1,2 +1,2 @@
-pyulgresample>=0.01
+pyulgresample>=0.0.5
 pre-commit
