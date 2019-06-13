@@ -7,7 +7,6 @@ import pyulog
 import os
 import numpy as np
 import pytest
-import matplotlib.pyplot as plt
 
 
 def setup_dataframe(
