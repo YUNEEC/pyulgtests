@@ -1,2 +1,3 @@
 pyulgresample>=0.0.5
+pyyaml
 pre-commit
